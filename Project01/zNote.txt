@@ -1,0 +1,14 @@
+Layouts:
+    BoxLayout
+    Anchorlayout
+    Gridlayout
+    Stacklayout
+    ScrollView
+    Pagelayout
+Fşoatlayput,Relativelayout(in canvas), Scatterlayout
+
+<MainWidget>: 
+Button
+text: " " 
+size : pixl/"40dp","40dp" (finger size)
+pos 
