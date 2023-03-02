@@ -73,6 +73,8 @@ class giris(GridLayout):
     def print(self,instance): 
         self.l9.text=self.ti1.text
         print((self.ti1.text))
+    #covert to binary
+    
 
 
 class RyApp(App):
