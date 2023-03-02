@@ -9,6 +9,8 @@ Fşoatlayput,Relativelayout(in canvas), Scatterlayout
 
 <MainWidget>: 
 Button
-text: " " 
-size : pixl/"40dp","40dp" (finger size)
-pos 
+    text: " " 
+    size : pixl/"40dp","40dp" (finger size)
+    pos 
+Label   
+    color: r, g, b ,a(visibility)

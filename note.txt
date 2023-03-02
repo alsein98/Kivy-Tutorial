@@ -1,0 +1,24 @@
+    orientation: "vertical"
+    Button:
+        size_hint: .5, .5
+        text:  "Button 1"
+        
+    Label:
+        text:  "Label 1"
+
+        color: 0,1,0 ,100
+    Button:
+        text:  "Button 2"
+
+
+
+<MainWidget>:
+    Button:
+        text:  "Hello World!"
+        size: 400, 200
+        pos:0,400
+    Label:
+        text:  "Hello World!"
+        size: 400, 200
+        pos:400,400
+        color: 0,1,0 ,-100
